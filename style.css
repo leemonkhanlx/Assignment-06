@@ -16,6 +16,7 @@
 }
 body{
 	background-color: aqua;
+	color: white;
 }
 
 .wrapper{
@@ -31,6 +32,9 @@ body{
 .content-height{ 
 	height: 600px; 
 	background-color: skyblue;
+}
+.content-body{
+	margin-left: 22px;	
 }
 .entry-height{ 
 	height: 500px; 
